@@ -1,0 +1,67 @@
+body{
+    background-image: url(../static/pic2.jpg);
+    background-size:cover;
+    color: rgb(2, 31, 84);
+}
+
+
+#title{
+    font-size:70px;
+    font-weight: 900;
+    color: white;
+    color:  rgb(245, 242, 34);
+    
+}
+
+
+.box{
+    margin-top: 100px;
+    margin-left: 230px;
+    margin-right: 190px;
+    padding-left: 8px;
+    box-shadow: 5px 5px #ed1212;
+    background-color: rgb(245, 242, 34);
+    border-radius: 25px;
+
+}
+
+
+#center{
+    margin-left: 70px;
+    margin-right: auto;
+    font-weight: 900;
+    font-size: 35px;
+}
+
+#myinput{
+    margin-top: 15px;
+    margin-left: 140px;
+    margin-right: auto;
+    font-weight: 900;
+    font-size: 28px;
+    height: 50px;
+    background-color: rgb(244, 235, 245);
+    padding-left: 20px;
+    box-shadow: 5px 5px #ed1212;
+    border-radius: 15px;
+}
+
+#mybtn{
+    margin-top: 25px;
+    margin-left: 240px;
+    margin-right: auto;
+    font-size: 28px;
+    font-weight: 900;
+    width: 140px;
+    margin-bottom: 35px;
+    border-radius: 15px;
+}
+
+#result{
+    margin-left: 70px;
+    margin-right: auto;
+    font-weight: 900;
+    color: #ed1212;
+    font-size: 30px;
+
+}
