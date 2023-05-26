@@ -35,3 +35,11 @@ def roman():
        
 if __name__ == '__main__':
     app.run(debug=True)
+    
+'''
+1.User Input is converted into uppercase
+2.All roman Values are stored in Dictionary.
+3.Comparison of current index & next index were done.
+4.Based on comparison Addition or subtraction carried out.
+5.Final result are sended back 
+'''
