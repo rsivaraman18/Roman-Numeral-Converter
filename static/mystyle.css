@@ -4,15 +4,12 @@ body{
     color: rgb(2, 31, 84);
 }
 
-
 #title{
     font-size:70px;
     font-weight: 900;
     color: white;
-    color:  rgb(245, 242, 34);
-    
+    color:  rgb(245, 242, 34);    
 }
-
 
 .box{
     margin-top: 100px;
@@ -22,9 +19,7 @@ body{
     box-shadow: 5px 5px #ed1212;
     background-color: rgb(245, 242, 34);
     border-radius: 25px;
-
 }
-
 
 #center{
     margin-left: 70px;
@@ -63,5 +58,4 @@ body{
     font-weight: 900;
     color: #ed1212;
     font-size: 30px;
-
 }
